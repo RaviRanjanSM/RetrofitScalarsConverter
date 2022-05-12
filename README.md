@@ -6,4 +6,4 @@ Retrofit scalars converters are also used to web scrapping in Android. You can u
  There can be instances when you just need image as the response body from the network call.
 In such cases, instead of GsonConverters, we need to use Scalars Converter
 
-In order to use Scalar Converters, you need to add the following dependency along with Retrofit  dependencies in the <h1>build.gradle</h1>
+In order to use Scalar Converters, you need to add the following dependency along with Retrofit  dependencies in the <h3>build.gradle</h3>
